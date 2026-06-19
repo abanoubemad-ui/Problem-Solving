@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+ {
+    string a;
+    cin >> a;
+    cout << a << " Love BFCAI BANHA";
+  return 0;
+ }
